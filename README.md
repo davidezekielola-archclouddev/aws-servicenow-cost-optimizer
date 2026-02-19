@@ -1,4 +1,4 @@
-🚀 #AWS Cost Guard: ServiceNow-Cloud Optimization
+🚀AWS Cost Guard: ServiceNow-Cloud Optimization
 A cross-platform FinOps engine that automates cloud waste identification and remediation.
 
 📖 Project Overview
